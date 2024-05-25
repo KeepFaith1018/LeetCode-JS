@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode刷题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KeepFaith1018/LeetCode-JS.git"
+  },
+  "author": "Faith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeepFaith1018/LeetCode-JS/issues"
+  },
+  "homepage": "https://github.com/KeepFaith1018/LeetCode-JS#readme"
+}
