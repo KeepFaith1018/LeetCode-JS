@@ -1,5 +1,4 @@
 "use strict";
-
 function climbStairs(n) {
     const dp = [0];
     dp[0] = 0;
